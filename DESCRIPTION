@@ -5,7 +5,9 @@ Title: Sentiment Analysis based on Word Counts
 Authors@R: c(person("Mario", "Annau", role = c("aut", "cre"), 
     email = "mario.annau@gmail.com"),
   person("Stefan", "Feuerriegel", role = c("aut"), 
-    email = "stefan.feuerriegel@is.uni-freiburg.de"))
+    email = "stefan.feuerriegel@is.uni-freiburg.de"), 
+  person("Nicolas", "Proellochs", role = c("aut"), 
+    email = "nicolas.proellochs@is.uni-freiburg.de"))
 Depends:
     R (>= 3.1.0)
 Imports:
