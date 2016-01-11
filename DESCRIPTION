@@ -1,0 +1,20 @@
+Package: SentimentAnalyis
+Version: 0.9
+Date: 2015-01-11
+Title: Sentiment Analysis based on Word Counts
+Authors@R: c(person("Mario", "Annau", role = c("aut", "cre"), 
+    email = "mario.annau@gmail.com"),
+  person("Stefan", "Feuerriegel", role = c("aut"), 
+    email = "stefan.feuerriegel@is.uni-freiburg.de"))
+Depends:
+    R (>= 3.1.0)
+Imports:
+    tm (>= 0.6), 
+    slam
+Suggests:
+    testthat
+Description: Sentiment Analysis based on Word Counts. Also generation of custom
+	dictionaries is supported.
+License: GPL-2
+URL: https://github.com/mannau/SentimentAnalyis
+BugReports: https://github.com/mannau/SentimentAnalyis/issues

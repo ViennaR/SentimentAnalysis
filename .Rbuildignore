@@ -1,0 +1,14 @@
+.settings
+.travis.yml
+.gitignore
+.project
+.README.md.html
+Makefile
+README.md
+release
+.*tar.gz
+data/.gitignore
+travis-tool.sh
+inst/googleSearch.R
+tests/testthat.R.cran
+tests/testthat.R.temp
